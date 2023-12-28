@@ -12,6 +12,6 @@ pl.jobsora.com/ <br>
 4. stworz makiete/prototyp aplikacji do testowania
 <p>
    <img src="https://em-content.zobj.net/content/2020/04/05/yt.png">
-   <b> <a href="https://www.youtube.com/watch?v=W8smyf1eHFk" target="blank">Jak zaplanować swój projekt?</a> </b>
+   <a href="https://www.youtube.com/watch?v=W8smyf1eHFk" target="blank">Jak zaplanować swój projekt?</a>
    <img src="https://em-content.zobj.net/content/2020/04/05/yt.png">
 </p>
