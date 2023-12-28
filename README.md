@@ -9,5 +9,5 @@ pl.jobsora.com/ <br>
 3. stwórz design UI/UX dla aplikacji
 4. stworz makiete/prototyp aplikacji do testowania
 <p>
-   Poradnik jak zaplanować swój projekt: https://www.youtube.com/watch?v=W8smyf1eHFk
+   <b> <a href="https://www.youtube.com/watch?v=W8smyf1eHFk" target="blank">Jak zaplanować swój projekt: </a>
 </p>
