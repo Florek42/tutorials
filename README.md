@@ -13,7 +13,7 @@ pl.jobsora.com/ <br>
 <p>
   <div style="display: flex; justify-content: center;">
     <img src="https://em-content.zobj.net/content/2020/04/05/yt.png">
-    <a href="https://www.youtube.com/watch?v=W8smyf1eHFk" target="blank">Jak zaplanować swój projekt?</a>
+    <a target="_blank" href="https://www.youtube.com/watch?v=W8smyf1eHFk" >Jak zaplanować swój projekt?</a>
     <img src="https://em-content.zobj.net/content/2020/04/05/yt.png">
   </div>
 </p>
