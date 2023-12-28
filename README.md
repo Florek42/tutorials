@@ -13,4 +13,5 @@ pl.jobsora.com/ <br>
 <p>
    <img src="https://em-content.zobj.net/content/2020/04/05/yt.png">
    <b> <a href="https://www.youtube.com/watch?v=W8smyf1eHFk" target="blank">Jak zaplanować swój projekt?</a> </b>
+   <img src="https://em-content.zobj.net/content/2020/04/05/yt.png">
 </p>
