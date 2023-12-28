@@ -1,9 +1,11 @@
-# strony do szukania ofert pracy:
+<h1>Przydatne rzeczy</h1>
+
+# Strony do szukania ofert pracy:
 theprotocol.it/ <br>
 rocketjobs.pl/ <br>
 pl.jobsora.com/ <br>
 
-# tworzenie aplikacji
+# Tworzenie i planowanie aplikacji
 1. Stwórz dokument z funkcjonalnościami aplikaji
 2. stwórz architekture(mppę) projektu
 3. stwórz design UI/UX dla aplikacji
